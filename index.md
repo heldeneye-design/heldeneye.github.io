@@ -1,3 +1,10 @@
+
+---
+layout: default
+title: TickrIsland Privacy Policy
+---
+
+
 TickrIsland Privacy Policy
 This Privacy Policy explains how TickrIsland ("the App") collects, uses, stores, and disposes of your personal information.
 1. Information We Collect
